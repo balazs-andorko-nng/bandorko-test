@@ -1,2 +1,2 @@
 # bandorko-test
-Test content 1
+Test content 2
